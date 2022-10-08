@@ -1,0 +1,245 @@
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@700&family=Pacifico&display=swap');
+
+body{
+    margin: 0;
+    
+}
+header{
+    height: 72px;
+    display: flex;
+    align-items: center;
+    padding: 10 20%;
+    justify-content: space-between;
+}
+header a{
+    margin-right: 25px;
+}
+.logo{
+    position: relative;
+    left: 10px;
+}
+.jol img {
+    display: inline-block;
+    height: 310px;
+    width: 290px;
+    position: relative;
+    bottom: 310px;
+    left: 575px;
+    
+}
+.bi>* {
+    display: inline-block;
+    width:450px;
+    font-size:30px;
+    vertical-align: middle; 
+}
+.fi>* {
+    display: inline-block;
+    width:450px;
+    font-size:30px;
+    vertical-align: middle; 
+}
+.ak>* {
+    display: inline-block;
+    width:450px;
+    font-size:30px;
+    vertical-align: middle; 
+}
+article p{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+    position: relative;
+    left: 100px;
+    bottom: 50px;
+}
+article h1{
+    color:aliceblue;
+    background-color: black;
+    width: 250px;
+    height: 25px;
+    border: 5px solid #515151;
+    position: relative;
+    left: 100px;
+}
+.razryv {
+    height:200px;
+}
+.p1p{
+    text-decoration: none;
+    background-color:rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 3px 10px;
+    border-radius: 20px;
+    width: 200px;
+    height: 35px;
+    border: 5px solid #515151;
+    position: relative;
+    top: 10px;
+    left: 15px;
+}
+.p2p {
+    background-color:rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 3px 10px;
+    border-radius: 20px;
+    width: 390px;
+    height: 35px;
+    border: 5px solid #515151;
+    position: relative;
+    left: 280px;
+    bottom: 60px;
+}
+.pustota {
+    width: 10%
+}
+
+a{
+    text-decoration: none;
+    background-color:rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 3px 10px;
+    border-radius: 20px;
+}
+.as{
+    background-color:rgb(0, 0, 0);
+    color: aliceblue;
+    width: 500px;
+    height: 100px;
+    border: 5px solid #515151;
+    position: relative;
+    left: 15px;
+
+}
+.im img{
+    display: inline-block;
+    height: 125px;
+    width: 255px;
+    position: relative;
+    bottom: 100px;
+    left: 575px;
+    width: 255px;
+    height: 125px;
+    border: 5px solid #515151;
+}
+.rrr {
+    background-color:rgb(0, 0, 0);
+    color: aliceblue;
+    width: 500px;
+    height: 155px;
+    border: 5px solid #515151;
+    position: relative;
+    left: 15px;
+}
+.im2 img {
+    display: inline-block;
+    height: 125px;
+    width: 255px;
+    position: relative;
+    bottom: 150px;
+    left: 575px;
+    width: 255px;
+    height: 125px;
+    border: 5px solid #515151;
+}
+.rrr2 {
+    background-color:rgb(0, 0, 0);
+    color: aliceblue;
+    width: 500px;
+    height: 150px;
+    border: 5px solid #515151;
+    position: relative;
+    left: 15px;
+}
+.im3 img {
+    display: inline-block;
+    height: 125px;
+    width: 255px;
+    position: relative;
+    bottom: 135px;
+    left: 575px;
+    width: 255px;
+    height: 125px;
+    border: 5px solid #515151;
+}
+.rrr3 {
+    background-color:rgb(0, 0, 0);
+    color: aliceblue;
+    width: 500px;
+    height: 135px;
+    border: 5px solid #515151;
+    position: relative;
+    left: 15px;
+}
+.im4 img {
+    display: inline-block;
+    height: 125px;
+    width: 255px;
+    position: relative;
+    bottom: 100px;
+    left: 575px;
+    width: 255px;
+    height: 125px;
+    border: 5px solid #515151;
+}
+.pustota {
+    width: 10%
+}
+.razryv1 {
+    height: 695px;
+}
+.aktp{
+    font-size: 20px;
+    font-weight: 900;
+    position: relative;
+    left: 370px;
+}
+.akt1 {
+    color: #000;
+    width: 450px;
+    height: 200px;
+    border: 5px solid #515151;
+}
+.akt2 {
+    color: black;
+    width: 500px;
+    height: 205px;
+    border: 5px solid #515151;
+    position: relative;
+    left: 525px;
+    bottom: 230px;
+}
+.pustota {
+    width: 10%
+}
+.razryv2 {
+    height: 325px;  
+}
+.biip{
+    color: #000;
+    font-size: 20px;
+    font-weight: 900;
+    position: relative;
+    left: 370px;
+}
+.biite{
+    color: #000;
+    width: 600px;
+    height: 360px;
+    border: 5px solid #ffffff;
+}
+.immm5 img {
+    display: inline-block;
+    position: relative;
+    bottom: 330px;
+    left: 645px;
+    width: 280px;
+    height: 375px;
+    border: 5px solid #ffffff;
+}
+.foo {
+    background-color:black;
+    padding: 10px 0;
+    align-items: end;
+}
